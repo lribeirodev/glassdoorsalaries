@@ -3,7 +3,7 @@
 
 # VERSÃO PORTUGUÊS
 ##### Este código converte e mostra o salário de USD para BRL
-acesse the www.glassdoor.com <br>
+acesse o site www.glassdoor.com <br>
 procure por salários nos estados unidos <br>
 
 # Método um <br>
