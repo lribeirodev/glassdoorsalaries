@@ -1,7 +1,7 @@
 # glassdoorsalaries
 ##### scrolldown for english version 
 
-#### VERSÃO PORTUGUÊS
+# VERSÃO PORTUGUÊS
 ##### Este código converte e mostra o salário de USD para BRL
 acesse the www.glassdoor.com <br>
 procure por salários nos estados unidos <br>
@@ -42,7 +42,7 @@ agora você pode utilizar o código quando quiser<br>
 aproveite<br>
 
 
-#### VERSION ENGLISH
+# ENGLISH VERSION 
 ##### this code convert and show the salary from usa to brl
 open the www.glassdoor.com <br>
 search for salaries in USA <br>
